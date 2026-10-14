@@ -39,7 +39,7 @@ More project documentation and demonstrations will be added here.
 
 ## 🤝 Let's Connect
 
-- **Upwork:** [View my Upwork profile]([https://www.upwork.com/](https://www.upwork.com/freelancers/~01b7ac9718d84f2951))
+- **Upwork:** [View my Upwork profile](https://www.upwork.com/freelancers/~01b7ac9718d84f2951)])
 - **Website:** [Sahal Softech](https://sahalsoftech.com/)
 - **GitHub:** [Explore my repositories](https://github.com/bushramemon1110-cmd)
 
